@@ -20,10 +20,16 @@ letter-spacing: 0.03em;
 
 .logo-3 {color: #F4F4FD;}
 
-.logo-effect {font-weight: 500
-color; #2e2f42;
-}
-.logo-effect:hover, :focus {color: #404bbf;}
+.nav-link {font-weight: 500;
+color: #2e2f42;
+font-size: 16px;
+font-style: normal;
+line-height: 1.5;
+letter-spacing: 0.02em;}
+
+.nav-link:hover, :focus {color: #404bbf;}
+
+address {font-style: normal;}
 
 a {text-decoration: none;}
 
