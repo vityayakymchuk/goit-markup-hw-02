@@ -38,9 +38,9 @@ ul {list-style-type: none;}
 .navigator ul {list-style-type: none;
 color: #2E2F42}
 
-.mail {font-style: normal;
+.contact {font-style: normal;
 color: #434455;}
-.mail:hover, :focus {color: #404bbf;}
+.contact:hover, :focus {color: #404bbf;}
 
 .order-service {background-color: #2E2F42;}
 .page-title {color: white;
@@ -85,6 +85,8 @@ line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 text-align: center;}
+
+.teams-item {background-color: #FFFFFF;}
 
 .name {color: #2e2f42;
 font-size: 20px;
