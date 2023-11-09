@@ -18,7 +18,7 @@ letter-spacing: 0.03em;
 
 .logo-2 {color: #2E2F42;}
 
-.logo-3 {color: #F4F4FD;}
+.logo-footer {color: #F4F4FD;}
 
 .nav-link {font-weight: 500;
 color: #2e2f42;
@@ -68,11 +68,15 @@ font-size: 20px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.2;
-letter-spacing: 0.4px;
-color: #2e2f42;}
+letter-spacing: 0.02em;}
 
 .description-titles {color: #434455;
-font-size: 16px;}
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;}
+
+.section-our-team {background-color: #F4F4FD;}
+
 .title-our-team {color: #2e2f42;
     font-size: 36px;
 font-style: normal;
@@ -81,13 +85,22 @@ line-height: 1.11;
 letter-spacing: 0.72px;
 text-transform: capitalize;
 text-align: center;}
-.team-item {background-color: #ffffff;
 
 .name {color: #2e2f42;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
-
-
+.portfolio-titles {color: #2E2F42;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.02em;
 }
+.portfolio-content {}
 footer {background-color: #2E2F42;}
 
 .description {color: #F4F4FD;}
